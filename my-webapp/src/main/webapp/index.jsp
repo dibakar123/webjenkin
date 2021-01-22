@@ -1,5 +1,5 @@
 <html>
-<body>
+<body bgcolor='yellow'>
 <hr>
 <h2>Hello World!</h2>
 <hr>
